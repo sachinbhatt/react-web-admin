@@ -1,0 +1,9 @@
+export const API_ROOT = "http://192.168.9.5:8080/mycardbe/";  //Local IP: 192.168.9.38
+export const API_ROOT_OBSOLETE = "http://122.170.99.140:8080/mycardbe/";  //Local IP: 192.168.9.38
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+export const LOGIN_STATUS = 'LOGIN_STATUS';
+export const LOGIN_FAILURE = 'LOGIN_FAILURE';
+export const LOGOUT_REQUEST = 'LOGOUT_REQUEST';
+export const SUCCESS= 'ALERT_SUCCESS';
+export const ERROR= 'ALERT_ERROR';
+export const CLEAR= 'ALERT_CLEAR';
